@@ -5,3 +5,10 @@ arm-none-eabi-size  FreshAndClean.elf
    4868	     20	   1572	   6460	   193c	FreshAndClean.elf
 Finished building: default.size.stdout
  
+19:12:24 **** Incremental Build of configuration Debug for project FreshAndClean ****
+make -j15 all 
+arm-none-eabi-size  FreshAndClean.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4868	     20	   1572	   6460	   193c	FreshAndClean.elf
+Finished building: default.size.stdout
+ 

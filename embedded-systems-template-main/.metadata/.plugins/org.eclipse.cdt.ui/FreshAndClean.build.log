@@ -1,4 +1,4 @@
-15:20:31 **** Build of configuration Debug for project FreshAndClean ****
+19:12:24 **** Incremental Build of configuration Debug for project FreshAndClean ****
 make -j15 all 
 arm-none-eabi-size  FreshAndClean.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size  FreshAndClean.elf
 Finished building: default.size.stdout
  
 
-15:20:31 Build Finished. 0 errors, 0 warnings. (took 202ms)
+19:12:24 Build Finished. 0 errors, 0 warnings. (took 160ms)
 
